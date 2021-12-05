@@ -1,0 +1,7 @@
+name: "duo"
+displayName: "Duo"
+author: "Antlrr"
+description: "duo"
+version: "1.0"
+minGameVersion: "135"
+hidden: "true"
